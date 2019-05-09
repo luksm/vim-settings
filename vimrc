@@ -1,9 +1,10 @@
 " Visual
 :set number relativenumber
 :set ruler
+:set colorcolumn=80
 
 " Pathogen
-execute pathogen#infect()
+" execute pathogen#infect()
 syntax on
-color dracula
-filetype plugin indent on
+" color dracula
+" filetype plugin indent on
